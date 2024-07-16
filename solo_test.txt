@@ -5,3 +5,8 @@
 그래요?
 그래요.
 pubilc string sad = "난 슬피우는 고양이";
+bool die = false;
+if(sad)
+{
+die = true;
+}
